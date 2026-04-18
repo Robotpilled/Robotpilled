@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Robotpilled&style=plastic&color=2054D6&label=₍^.ꞈ.^₎Ⳋ)
+![](https://komarev.com/ghpvc/?username=Robotpilled&abbreviated=true&style=plastic&color=2054D6&label=₍^.ꞈ.^₎Ⳋ)
   
 ![1](https://files.catbox.moe/1dql3d.png)
 ![2](https://files.catbox.moe/6tqayt.png)
