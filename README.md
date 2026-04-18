@@ -1,4 +1,6 @@
 <div align="center">
+
+  ![1](https://komarev.com/ghpvc/?username=Robotpilled&abbreviated=true&color=2054D6&style=plastic&label=₍^.ꞈ.^₎Ⳋ)
   
 ![1](https://files.catbox.moe/1dql3d.png)
 ![2](https://files.catbox.moe/6tqayt.png)
@@ -10,5 +12,17 @@
 ![8](https://files.catbox.moe/l6n4t7.jpg)
 ![9](https://files.catbox.moe/x9ae48.png)
 ![10](https://files.catbox.moe/t8ns6i.png)
+![15](https://files.catbox.moe/rzzpio.png)
+![16](https://files.catbox.moe/uzhud9.png)
+![17](https://files.catbox.moe/2htfjn.webp)
+![18](https://files.catbox.moe/d4mhfe.png)
+![19](https://files.catbox.moe/v85vg6.png)
+![20](https://files.catbox.moe/19ibij.png)
+![22](https://files.catbox.moe/66ftxc.gif)
+![23](https://files.catbox.moe/mz2dam.png)
+
+![24](https://files.catbox.moe/sga4gu.webp)
+![25](https://files.catbox.moe/f8vf7x.gif)
+![26](https://files.catbox.moe/xddxpy.gif)
 
 ![2](https://files.catbox.moe/erg42b.jpg)
