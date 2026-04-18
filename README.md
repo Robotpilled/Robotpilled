@@ -1,6 +1,4 @@
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=Robotpilled)
   
 ![1](https://files.catbox.moe/1dql3d.png)
 ![2](https://files.catbox.moe/6tqayt.png)
