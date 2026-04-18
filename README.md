@@ -21,6 +21,5 @@
 
 ![24](https://files.catbox.moe/sga4gu.webp)
 ![25](https://files.catbox.moe/f8vf7x.gif)
-![26](https://files.catbox.moe/xddxpy.gif)
 
 ![2](https://files.catbox.moe/erg42b.jpg)
